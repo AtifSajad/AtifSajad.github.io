@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Atif Sajjad
+I am System Engineer in well renowned software company which works with multiple enterprise projects. I have ample experience in setting up enterprise IT infrastructure which includes variety of middle-ware servers deployed on both on-premises and on cloud servers. I am sure I can resolve your query professionally in a timely manner. 
+### Job Description
+- Building up infrastructure for web and android applications
+- Installation and Configuration of middle-ware software
+- Create deployment and support documentations for customers
+- Exchange Server Administration
 
-You can use the [editor on GitHub](https://github.com/AtifSajad/AtifSajad.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Skills 
+- Linux Administration
+- IBM WebSphere
+- Wildfly
+- AWS Associate Solution Architecture
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AtifSajad/AtifSajad.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Education
+- MSCS NUST Islamabad (2018 - ongoing)
+- BSCS FAST_NUCS (2011 - 2015)
